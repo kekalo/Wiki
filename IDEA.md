@@ -8,7 +8,7 @@ Ctrl+Shift+A:  справочник (поиск) по использованию
 
 
 Проверьте, что правильно выставлены профили Spring.
-Проверьте - нет ли лишних бинов (или наоборот их не хватает в Project Structure->Modules->Spring:
+Проверьте - нет ли лишних бинов (или наоборот их не хватает) в Project Structure->Modules->Spring:
 
 ![spring-ctx2](https://cloud.githubusercontent.com/assets/13649199/10559730/4e60dea2-7500-11e5-8018-420e12fc7f5c.png)
 
