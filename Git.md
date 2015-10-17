@@ -22,3 +22,9 @@ Soft- оставить все изменения, Hard - все затереть
 
 Сравнивать можно в github с текущей версией проекта либо с соответствующей ревизией:
 ![github_revision](https://cloud.githubusercontent.com/assets/13649199/10560234/347dbeda-750d-11e5-8b03-a1b62b94166d.png)
+
+Сравнить содержимое можно скопировав содержимое из github в буфер:
+![github_raw](https://cloud.githubusercontent.com/assets/13649199/10560413/52ec4e08-7513-11e5-8386-1c52eb55b5eb.png)
+
+и следать Compare with clipboard в IDEA:
+![compare_with_clipboard](https://cloud.githubusercontent.com/assets/13649199/10560411/4be3809a-7513-11e5-914e-94b4efb5b08e.png)
