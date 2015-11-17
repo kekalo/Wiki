@@ -1,6 +1,6 @@
 ## Настройки
 
-     Путь к мавен репозиторию можно поменять тут: `MAVEN_HOME\conf\settings.xml`
+     Путь к мавен репозиторию можно поменять тут: MAVEN_HOME\conf\settings.xml
      Например  <localRepository>c:/mvn_repo</localRepository>
      В IDEA в настройках Maven надо проверить 
      (и переопределить, если неверно) путь к конфигурации и maven
