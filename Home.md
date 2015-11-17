@@ -7,6 +7,6 @@
 [FAQ по IDEA](wiki/IDEA)
 --------------------------
 
-[FAQ по IDEA](wiki/MAVEN)
+[FAQ по Maven](wiki/Maven)
 --------------------------
 
