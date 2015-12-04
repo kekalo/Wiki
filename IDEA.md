@@ -3,7 +3,10 @@
 
 Ctrl+Shift+A:  справочник (поиск) по использованию горячих клавиш
 
->   Ошибки Spring: There is more than one bean / Coudln't autowire:
+### Деплой war в Tomcat (`Application Context` должен быть тот же, что и url приложения, деплоить надо `war exploded`)
+![tomcat](https://cloud.githubusercontent.com/assets/975870/11599106/057932c4-9ad6-11e5-9e9e-fe9fd389532e.png)
+
+###   Ошибки Spring: There is more than one bean / Coudln't autowire:
 ![spring_ctx](https://cloud.githubusercontent.com/assets/13649199/10559681/96b8bcca-74ff-11e5-8203-8d0d4cf1bd19.png)
 
 
@@ -13,7 +16,7 @@ Ctrl+Shift+A:  справочник (поиск) по использованию
 ![spring-ctx2](https://cloud.githubusercontent.com/assets/13649199/10559730/4e60dea2-7500-11e5-8018-420e12fc7f5c.png)
 
 <hr>
-> Проблемы с кодировкой
+### Проблемы с кодировкой
 
 Выставьте в Settings->File Encoding везде UTF-8.
 
