@@ -32,3 +32,5 @@ Soft- оставить все изменения, Hard - все затереть
 
 и следать Compare with clipboard в IDEA:
 ![compare_with_clipboard](https://cloud.githubusercontent.com/assets/13649199/10560411/4be3809a-7513-11e5-914e-94b4efb5b08e.png)
+
+Если ваш файл совпадает с тем, что в репозитории и патч все равно не накатывается, напришите мне в личку- имя файла и номер патча, я поправлю.
