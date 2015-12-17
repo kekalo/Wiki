@@ -29,5 +29,5 @@ Ctrl+Shift+A:  справочник (поиск) по использованию
  
 > Опционально:  DejaVu fonts для IDEA
 
-- В IDEA Settings:
+- В IDEA Settings нужно сделать схеме Save As с именем, отличным от Default:
 ![idea_fonts](https://cloud.githubusercontent.com/assets/11200258/11875035/b09d058c-a4f3-11e5-9d35-88e1b607c310.png)
