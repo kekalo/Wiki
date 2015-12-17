@@ -24,8 +24,10 @@ Ctrl+Shift+A:  справочник (поиск) по использованию
 ![utf-8](https://cloud.githubusercontent.com/assets/13649199/10559841/e1b65654-7501-11e5-8913-d2b5b4e25087.png)
 
 <hr>
-### Поменять фонт по умолчанию:
-- Скачиваете и устанавливаете http://javawebinar.ru/#/soft 
+### Поменять фонт по умолчанию (например DejaVu):
+- Скачиваете и устанавливаете http://javawebinar.ru/#/soft
+ 
 > Опционально:  DejaVu fonts для IDEA
+
 - В IDEA Settings:
 ![idea_fonts](https://cloud.githubusercontent.com/assets/11200258/11875035/b09d058c-a4f3-11e5-9d35-88e1b607c310.png)
