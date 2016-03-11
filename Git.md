@@ -14,6 +14,8 @@ Git
 ### Вступительное занятие:
 - apply patch `Prepare_to_HW0.patch`
 - git commit/push
+
+### Домашнее задание HW0:
 - создать ветку HW0: в IDEA внизу справа `+ New Branch ->HW0`
 ![new_branch](https://cloud.githubusercontent.com/assets/13649199/13717279/8fcf7a42-e7f1-11e5-862f-b1fd3e302666.png)
 - выполняете Домашнее Задание, git commit/push
@@ -23,6 +25,8 @@ Git
 - перключаемся на master:  в IDEA внизу справа `Local Branches -> master -> checkout`
 - apply path HW0/HW0-Optional,  git commit/push
 - apply all patches Lesson01,  git commit/push
+
+### Домашнее задание HW1:
 - создать ветку HW1: в IDEA внизу справа `+ New Branch` ->HW1
 - выполняете Домашнее Задание, ...
 
