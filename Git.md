@@ -18,8 +18,8 @@ Git
 ### Домашнее задание HW0:
 - создать ветку HW0: в IDEA внизу справа `+ New Branch ->HW0`
 ![new_branch](https://cloud.githubusercontent.com/assets/13649199/13717279/8fcf7a42-e7f1-11e5-862f-b1fd3e302666.png)
-- выполняете Домашнее Задание, git commit/push
-- выполняете Optional Домашнее Задание, git commit/push
+- выполняете Домашнее Задание (HW), git commit/push
+- выполняете HW Optional, git commit/push
 
 ### Урок 1:
 - перключаемся на master:  в IDEA внизу справа `Local Branches -> master -> checkout`
