@@ -26,7 +26,7 @@ Git
 - apply HW0/HW0-Optional/Lesson01 pathes,  git commit/push
 
 ### Домашнее задание HW1:
-- создать ветку HW1: в IDEA внизу справа `+ New Branch` ->HW1
+- создать ветку HW1: в IDEA внизу справа `+ New Branch ->HW1`
 - выполняете HW1, git commit/push
 - выполняете HW1 Optional, git commit/push
 
