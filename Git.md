@@ -7,10 +7,27 @@ Git
 
 - **Делать Apply Patch лучше по одному непосредственно перед видео на эту тему - тогда при просмотре вы сразу сможете отслеживать изменения кода проекта.**
 
-### <a href="https://github.com/JavaWebinar/topjava06/commits/master">Текущее состояние проекта</a>
-
-**Правило**: Перед каждым изменением проверяйте что меняется: Ctrl+D по всем файлам ченджлиста.
+- **Правило**: Перед каждым изменением проверяйте что меняется: Ctrl+D по всем файлам ченджлиста.
 Если только пробелы - делайте revert.
+
+## Как вести проект (у себя в локальном проекте):
+### Вступительное занятие:
+- apply patch `Prepare_to_HW0.patch`
+- git commit/push
+- создать ветку HW0: в IDEA внизу справа `+ New Branch` ->HW0
+![new_branch](https://cloud.githubusercontent.com/assets/13649199/13717080/2acae2ea-e7f0-11e5-9c67-ae03eaf3fd3e.png)
+- выполняете Домашнее Задание, git commit/push
+- выполняете Optional Домашнее Задание, git commit/push
+
+### Урок 1:
+- перключаемся на master:  в IDEA внизу справа `Local Branches -> master -> checkout`
+- apply path HW0/HW0-Optional,  git commit/push
+- apply all patches Lesson01,  git commit/push
+- создать ветку HW1: в IDEA внизу справа `+ New Branch` ->HW1
+- выполняете Домашнее Задание, ..
+
+Так должна выглядеть ваш Version Control -> Log:
+![branch](https://cloud.githubusercontent.com/assets/13649199/13716918/15c2a456-e7ef-11e5-9db2-8f2db69ff1e3.png)
 
 > Как откатить patch?
 
