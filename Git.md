@@ -23,8 +23,7 @@ Git
 
 ### Урок 1:
 - перключаемся на master:  в IDEA внизу справа `Local Branches -> master -> checkout`
-- apply path HW0/HW0-Optional,  git commit/push
-- apply all patches of Lesson01,  git commit/push
+- apply HW0/HW0-Optional/Lesson01 pathes,  git commit/push
 
 ### Домашнее задание HW1:
 - создать ветку HW1: в IDEA внизу справа `+ New Branch` ->HW1
@@ -33,7 +32,8 @@ Git
 
 ### Урок 2:
 - перключаемся на master:  в IDEA внизу справа `Local Branches -> master -> checkout`
-...
+- apply HW1/HW1-Optional/Lesson02 pathes,  git commit/push
+- ...
 
 Так должна выглядеть ваш Version Control -> Log:
 ![branch](https://cloud.githubusercontent.com/assets/13649199/13716918/15c2a456-e7ef-11e5-9db2-8f2db69ff1e3.png)
