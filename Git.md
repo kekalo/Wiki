@@ -14,8 +14,8 @@ Git
 ### Вступительное занятие:
 - apply patch `Prepare_to_HW0.patch`
 - git commit/push
-- создать ветку HW0: в IDEA внизу справа `+ New Branch` ->HW0
-![new_branch](https://cloud.githubusercontent.com/assets/13649199/13717080/2acae2ea-e7f0-11e5-9c67-ae03eaf3fd3e.png)
+- создать ветку HW0: в IDEA внизу справа `+ New Branch ->HW0`
+![new_branch](https://cloud.githubusercontent.com/assets/13649199/13717279/8fcf7a42-e7f1-11e5-862f-b1fd3e302666.png)
 - выполняете Домашнее Задание, git commit/push
 - выполняете Optional Домашнее Задание, git commit/push
 
@@ -24,7 +24,11 @@ Git
 - apply path HW0/HW0-Optional,  git commit/push
 - apply all patches Lesson01,  git commit/push
 - создать ветку HW1: в IDEA внизу справа `+ New Branch` ->HW1
-- выполняете Домашнее Задание, ..
+- выполняете Домашнее Задание, ...
+
+### Урок 2:
+- перключаемся на master:  в IDEA внизу справа `Local Branches -> master -> checkout`
+...
 
 Так должна выглядеть ваш Version Control -> Log:
 ![branch](https://cloud.githubusercontent.com/assets/13649199/13716918/15c2a456-e7ef-11e5-9db2-8f2db69ff1e3.png)
