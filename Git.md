@@ -11,26 +11,26 @@ Git
 Если только пробелы - делайте revert.
 
 ## Как вести проект (у себя в локальном проекте):
-### Вступительное занятие:
+#### Вступительное занятие:
 - apply patch `Prepare_to_HW0.patch`
 - git commit/push
 
-### Домашнее задание HW0:
+#### Домашнее задание HW0:
 - создать ветку HW0: в IDEA внизу справа `+ New Branch ->HW0`
 ![new_branch](https://cloud.githubusercontent.com/assets/13649199/13717279/8fcf7a42-e7f1-11e5-862f-b1fd3e302666.png)
 - выполняете Домашнее Задание (HW0), git commit/push
 - выполняете HW0 Optional, git commit/push
 
-### Урок 1:
+#### Урок 1:
 - перключаемся на master:  в IDEA внизу справа `Local Branches -> master -> checkout`
 - apply HW0/HW0-Optional/Lesson01 pathes,  git commit/push
 
-### Домашнее задание HW1:
+#### Домашнее задание HW1:
 - создать ветку HW1: в IDEA внизу справа `+ New Branch ->HW1`
 - выполняете HW1, git commit/push
 - выполняете HW1 Optional, git commit/push
 
-### Урок 2:
+#### Урок 2:
 - перключаемся на master:  в IDEA внизу справа `Local Branches -> master -> checkout`
 - apply HW1/HW1-Optional/Lesson02 pathes,  git commit/push
 - ...
@@ -38,7 +38,7 @@ Git
 Так должна выглядеть ваш Version Control -> Log:
 ![branch](https://cloud.githubusercontent.com/assets/13649199/13716918/15c2a456-e7ef-11e5-9db2-8f2db69ff1e3.png)
 
-> Как откатить patch?
+## Как откатить patch?
 
 Version control -> Log
 Правой кнопкой на нужной ревизии -> Reset Current Branch to Here
@@ -46,7 +46,7 @@ Soft- оставить все изменения, Hard - все затереть
 ![resetcurrentbranch](https://cloud.githubusercontent.com/assets/13649199/10559911/03be0a98-7503-11e5-98c6-eea3f062aba5.png)
 
 <hr>
-> Patch не накатывается (предлагает merge)
+## Patch не накатывается (предлагает merge)
 
 Вероятнее всего Ваша ветка master не соответствует моей.
 Нужно сравнить проблемный файл:
