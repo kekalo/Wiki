@@ -17,7 +17,7 @@ Ctrl+Shift+A:  справочник (поиск) по использованию
 ![spring-ctx2](https://cloud.githubusercontent.com/assets/13649199/10559730/4e60dea2-7500-11e5-8018-420e12fc7f5c.png)
 
 <hr>
-### Проблемы с кодировкой
+### Поставить кодировку UTF-8
 
 Выставьте в Settings->File Encoding везде UTF-8.
 
