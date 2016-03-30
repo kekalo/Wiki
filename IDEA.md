@@ -25,11 +25,8 @@ Ctrl+Shift+A:  справочник (поиск) по использованию
 ![utf-8](https://cloud.githubusercontent.com/assets/13649199/10559841/e1b65654-7501-11e5-8913-d2b5b4e25087.png)
 
 <hr>
-### Поменять фонт по умолчанию (например DejaVu):
-- Скачиваете и устанавливаете в свою ОС http://javawebinar.ru/#/soft (пользуйтесь гугл)
- 
-> Опционально:  DejaVu fonts для IDEA
-
+### Поменять фонт по умолчанию (DejaVu):
+- Скачиваете https://sourceforge.net/projects/dejavu/ и устанавливаете в систему
 - Перегружаете IDEA
 - В IDEA Settings нужно сделать схеме Save As с именем, отличным от Default:
 ![idea_fonts](https://cloud.githubusercontent.com/assets/11200258/11875035/b09d058c-a4f3-11e5-9d35-88e1b607c310.png)
