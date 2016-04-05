@@ -2,6 +2,8 @@
 
 ### <a href="http://info.javarush.ru/idea_help/2014/01/22/Руководство-пользователя-IntelliJ-IDEA-Отладчик-.html">Отладчик IntelliJ IDEA</a>
 
+### <a href="http://stackoverflow.com/questions/8942751/use-intellij-to-generate-class-diagram#26926334">Generate class diagram</a>
+
 Ctrl+Shift+A:  справочник (поиск) по использованию горячих клавиш
 
 ### Деплой war в Tomcat (`Application Context` должен быть тот же, что и url приложения, деплоить надо `war exploded`)
