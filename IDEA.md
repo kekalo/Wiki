@@ -2,6 +2,8 @@
 
 ### <a href="http://info.javarush.ru/idea_help/2014/01/22/Руководство-пользователя-IntelliJ-IDEA-Отладчик-.html">Отладчик IntelliJ IDEA</a>
 
+### <a href="https://habrahabr.ru/post/279897/">Настройка Jetbrains IntelliJ Idea в Linux Ubuntu 14.04 LTS</a>
+
 ### <a href="http://stackoverflow.com/questions/8942751/use-intellij-to-generate-class-diagram#26926334">Generate class diagram</a>
 
 Ctrl+Shift+A:  справочник (поиск) по использованию горячих клавиш
