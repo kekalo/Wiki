@@ -15,26 +15,26 @@ Git
 ## Как вести проект (у себя в локальном проекте):
 #### Вступительное занятие:
 - apply patch `Prepare_to_HW0.patch`
-- git commit/push
+- `git commit/push`
 
 #### Домашнее задание HW0:
-- создать ветку HW0: в IDEA внизу справа `+ New Branch ->HW0`
+- создать ветку `HW0`: в IDEA внизу справа `+ New Branch ->HW0`
 ![new_branch](https://cloud.githubusercontent.com/assets/13649199/13717279/8fcf7a42-e7f1-11e5-862f-b1fd3e302666.png)
-- выполняете Домашнее Задание (HW0), git commit/push
-- выполняете HW0 Optional, git commit/push
+- выполняете Домашнее Задание (HW0), `git commit/push`
+- выполняете HW0 Optional, `git commit/push`
 
 #### Урок 1:
-- перключаемся на master:  в IDEA внизу справа `Local Branches -> master -> checkout`
-- apply HW0/HW0-Optional/Lesson01 pathes,  git commit/push
+- перключаемся на `master`:  в IDEA внизу справа `Local Branches -> master -> checkout`
+- apply `HW0/HW0-Optional/все патчи урока Lesson01`,  `git commit/push`
 
 #### Домашнее задание HW1:
-- создать ветку HW1: в IDEA внизу справа `+ New Branch ->HW1`
-- выполняете HW1, git commit/push
-- выполняете HW1 Optional, git commit/push
+- создать ветку `HW1`: в IDEA внизу справа `+ New Branch ->HW1`
+- выполняете HW1, `git commit/push`
+- выполняете HW1 Optional, `git commit/push`
 
 #### Урок 2:
-- перключаемся на master:  в IDEA внизу справа `Local Branches -> master -> checkout`
-- apply HW1/HW1-Optional/Lesson02 pathes,  git commit/push
+- перключаемся на `master`:  в IDEA внизу справа `Local Branches -> master -> checkout`
+- apply `HW1/HW1-Optional/все патчи Lesson02`,  `git commit/push`
 - ...
 
 Так должна выглядеть ваш Version Control -> Log:
