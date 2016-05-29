@@ -24,7 +24,7 @@ Git
 - выполняете HW0 Optional, `git commit/push`
 
 #### Урок 1:
-- перключаемся на `master`:  в IDEA внизу справа `Local Branches -> master -> checkout`
+- переключаемся на `master`:  в IDEA внизу справа `Local Branches -> master -> checkout`
 - apply `HW0/HW0-Optional/все патчи урока Lesson01`,  `git commit/push`
 
 #### Домашнее задание HW1:
