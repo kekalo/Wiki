@@ -25,7 +25,7 @@ Git
 
 #### Урок 1:
 - переключаемся на `master`:  в IDEA внизу справа `Local Branches -> master -> checkout`
-- apply `HW0/HW0-Optional/все патчи урока Lesson01`,  `git commit/push`
+- apply `все патчи урока Lesson01`,  `git commit/push`
 
 #### Домашнее задание HW1:
 - создать ветку `HW1`: в IDEA внизу справа `+ New Branch ->HW1`
@@ -34,7 +34,7 @@ Git
 
 #### Урок 2:
 - перключаемся на `master`:  в IDEA внизу справа `Local Branches -> master -> checkout`
-- apply `HW1/HW1-Optional/все патчи Lesson02`,  `git commit/push`
+- apply `все патчи Lesson02`,  `git commit/push`
 - ...
 
 Так должна выглядеть ваш Version Control -> Log:
