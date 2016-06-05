@@ -28,7 +28,7 @@ Ctrl+Shift+A:  справочник (поиск) по использованию
 Также можно сконвертировать файл в нужную кодировку внизу в строке статуса (View -> Status Bar поднят).
 ![utf-8](https://cloud.githubusercontent.com/assets/13649199/10559841/e1b65654-7501-11e5-8913-d2b5b4e25087.png)
 
-Выставить <a href="http://stackoverflow.com/questions/29695918/intellij-idea-console-issue#33035499">кодировку UTF-8 в консоли</a>
+### Выставить <a href="http://stackoverflow.com/questions/29695918/intellij-idea-console-issue#33035499">кодировку UTF-8 в консоли</a>
 
 
 <hr>
